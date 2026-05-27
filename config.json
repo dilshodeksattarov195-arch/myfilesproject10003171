@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdetch",
+        "uuid": 26325642,
+        "checksum": "qr0c6e"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
